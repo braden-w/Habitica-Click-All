@@ -1,0 +1,1 @@
+javascript: document.querySelector('.task-best-control-inner-daily-todo').click();

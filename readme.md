@@ -2,6 +2,8 @@
 
 A bookmarklet that clicks all Habitica dailies. Perfect for when you have missed a streak and wish to click all dailies without moving your mouse.
 
+![Picture of Habitica Dailies](https://i.redd.it/hhn82toopr531.png)
+
 ## Installation
 
 Install as a bookmarklet using directions [here](https://mreidsma.github.io/bookmarklets/installing.html).

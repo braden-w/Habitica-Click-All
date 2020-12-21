@@ -24,4 +24,5 @@ javascript: document.querySelector('.task-best-control-inner-daily-todo').click(
 To use, simply click on the bookmark.
 
 Click All: Will click all incomplete dailies.
+
 Click One: Will click the first incomplete daily. 

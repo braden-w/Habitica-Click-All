@@ -7,17 +7,18 @@ A bookmarklet that clicks all Habitica dailies. Perfect for when you have missed
 Install as a bookmarklet using directions [here](https://mreidsma.github.io/bookmarklets/installing.html).
 
 To install Click All, copy and paste the following code as a bookmarklet:
-```javascript:document.querySelectorAll('.task-best-control-inner-daily-todo').forEach(div => {div.click();});```
+```
+javascript:document.querySelectorAll('.task-best-control-inner-daily-todo').forEach(div => {div.click();});
+```
 
 To install Click One, copy and paste the following code as a bookmarklet:
-```javascript: document.querySelector('.task-best-control-inner-daily-todo').click();```
+```
+javascript: document.querySelector('.task-best-control-inner-daily-todo').click();
+```
 
 ## Usage
 
 To use, simply click on the bookmark.
 
-### Click All
-Will click all incomplete dailies.
-
-### Click One
-Will click the first incomplete daily. 
+Click All: Will click all incomplete dailies.
+Click One: Will click the first incomplete daily. 

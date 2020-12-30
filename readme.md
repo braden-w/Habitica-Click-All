@@ -10,12 +10,12 @@ Install as a bookmarklet using directions [here](https://mreidsma.github.io/book
 
 To install Click All, copy and paste the following code as a bookmarklet:
 ```
-javascript:document.querySelectorAll('.task-best-control-inner-daily-todo').forEach(div => {div.click();});
+javascript:document.querySelectorAll('.daily-todo-control').forEach(div => {div.click();});
 ```
 
 To install Click One, copy and paste the following code as a bookmarklet:
 ```
-javascript: document.querySelector('.task-best-control-inner-daily-todo').click();
+javascript: document.querySelector('.daily-todo-control').click();
 ```
 
 ## Usage

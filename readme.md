@@ -1,8 +1,9 @@
 # Habitica Click All/Click One Dailies
 
-A bookmarklet that clicks all Habitica dailies. Perfect for when you have missed a streak and wish to click all dailies without moving your mouse.
+A bookmarklet that clicks all Habitica dailies (and another that clicks the first one). Perfect for when you have missed a streak and wish to click all dailies without moving your mouse.
 
 ![Picture of Habitica Dailies](https://i.redd.it/hhn82toopr531.png)
+Clicking the bookmarklet would complete the final incomplete daily.
 
 ## Installation
 
@@ -23,4 +24,5 @@ javascript: document.querySelector('.daily-todo-control').click();
 To use, simply click on the bookmark.
 
 Click All: Will click all incomplete dailies.
+
 Click One: Will click the first incomplete daily. 

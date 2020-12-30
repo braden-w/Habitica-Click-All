@@ -1,1 +1,1 @@
-javascript: document.querySelector('.task-best-control-inner-daily-todo').click();
+javascript: document.querySelector('.daily-todo-control').click();

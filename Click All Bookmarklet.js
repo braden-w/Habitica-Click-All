@@ -1,1 +1,1 @@
-javascript:document.querySelectorAll('.task-best-control-inner-daily-todo').forEach(div => {div.click();});
+javascript:document.querySelectorAll('.daily-todo-control').forEach(div => {div.click();});
